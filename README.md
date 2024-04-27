@@ -130,4 +130,8 @@ while True:
 
 ## Test Case : 1 Server & 10 Client running
 Berikut Screnshot dari server dan client yang dijalankan
+- 1 Server & 10 Client running :
 ![](Screenshot/shot9.png)
+
+- Tampilan Server :
+![](Screenshot/shot10.png)
