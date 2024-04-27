@@ -123,9 +123,9 @@ while True:
 4. Client hanya mempunyai waktu 5 detik untuk menjawab dan menunggu 10 detik untuk menerima jawaban dan warna lain dari server
 ![](Screenshot/shot6.png)
 5. Jika jawaban benar maka akan memberikan score 100 dan jika salah akan memberikan score 0
-Contoh benar :
+- Contoh benar :
 ![](Screenshot/shot7.png)
-Contoh Salah :
+- Contoh Salah :
 ![](Screenshot/shot8.png)
 
 ## Test Case : 1 Server & 10 Client running
